@@ -15,4 +15,4 @@ The software was coded in Python
 
 # Useful Websites
 
-* [Web Site Name](https://code.visualstudio.com/docs/editor/github)
+* [Visual Studio](https://code.visualstudio.com/docs/editor/github)
